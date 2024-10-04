@@ -4,4 +4,4 @@ Frontend UI: The user interface is developed with React, styled using Tailwind C
 Backend API: The backend includes endpoints for user authentication and recipe management, all secured with JWT for protected routes.
 Error Handling: Appropriate error handling is implemented for invalid user input, missing author information, and server errors.
 
-versel :- 
+versel :- https://recipie-frontned.vercel.app
